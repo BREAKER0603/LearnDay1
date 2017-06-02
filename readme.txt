@@ -1,3 +1,3 @@
 Hello Word!
 Git is great tool!
-Git tracks changes!
+Git tracks changes of files!
